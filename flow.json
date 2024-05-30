@@ -6,6 +6,24 @@
 			"aliases": {
 				"emulator": "ee82856bf20e2aa6"
 			}
+		},
+		"FungibleTokenMetadataViews": {
+			"source": "",
+			"aliases": {
+				"emulator": "ee82856bf20e2aa6"
+			}
+		},
+		"MetadataViews": {
+			"source": "",
+			"aliases": {
+				"emulator": "f8d6e0586b0a20c7"
+			}
+		},
+		"ViewResolver": {
+			"source": "",
+			"aliases": {
+				"emulator": "f8d6e0586b0a20c7"
+			}
 		}
 	},
 	"networks": {
